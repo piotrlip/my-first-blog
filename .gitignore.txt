@@ -6,3 +6,16 @@ db.sqlite3
 /static
 .DS_Store
 venv/
+.venv
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
